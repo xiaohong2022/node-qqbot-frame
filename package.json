@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "description": "QQ 官方机器人框架（支持 C2C 与 Group 通道）",
   "license": "MIT",
+  "repository": {
+    "url": "https://github.com/xiaohong2022/node-qqbot-frame"
+  },
   "type": "module",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
